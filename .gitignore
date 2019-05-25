@@ -1,0 +1,8 @@
+*.o
+*.err
+*.txt
+.project
+sorter_client
+sorter_server
+/scan
+AllFiles*
